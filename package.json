@@ -1,0 +1,9 @@
+{
+  "name": "bun-playground",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "try": "bun src/hello-world.ts"
+  }
+}
